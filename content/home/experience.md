@@ -1,5 +1,5 @@
 ---
-widget: experience
+widget: home/experience.md
 date_format: Jan 2006
 experience:
   - title: CEO
